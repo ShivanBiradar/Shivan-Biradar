@@ -2,5 +2,4 @@ theme: jekyll-theme-leap-day
 title: My first page
 author: Shivan
 
-theme: dbyll
-disqus: dbyll-ghost
+theme: minima
